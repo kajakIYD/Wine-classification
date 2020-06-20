@@ -9,7 +9,7 @@ Model wine quality based on physicochemical tests
 ### Pairplot
 ![Pairplot](assets/pairplot.png)
 ### Linear regression
-\\[ R^2 \\] coefficient: <br>
+<img src="http://www.sciweavers.org/tex2img.php?eq=R%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R^2" width="22" height="18" /> coefficient: <br>
 Training set <br>
 0.35485287452056635 <br>
 Test set <br>
@@ -21,7 +21,7 @@ Coefficients: <br>
 Intercept: <br>
 20.028917356887142 <br>
 ### Bayesian regression
-$R^2$ coefficient: <br>
+<img src="http://www.sciweavers.org/tex2img.php?eq=R%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R^2" width="22" height="18" /> coefficient: <br>
 Training set <br>
 0.35310060612590055 <br>
 Test set <br>
@@ -33,6 +33,7 @@ Coefficients: <br>
 Intercept: <br>
 3.726953267082616 <br>
 ###Logistic regression
+<img src="http://www.sciweavers.org/tex2img.php?eq=R%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R^2" width="22" height="18" /> coefficient: <br>
 Training set: <br>
 0.6138448707256047 <br>
 Test set: <br>
