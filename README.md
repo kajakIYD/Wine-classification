@@ -32,7 +32,7 @@ Coefficients: <br>
 -3.37203700e-01,  6.96471002e-01,  3.08705097e-01 <br>
 Intercept: <br>
 3.726953267082616 <br>
-###Logistic regression
+### Logistic regression
 <img src="http://www.sciweavers.org/tex2img.php?eq=R%5E2&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="R^2" width="22" height="18" /> coefficient: <br>
 Training set: <br>
 0.6138448707256047 <br>
